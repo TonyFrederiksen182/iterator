@@ -12,7 +12,7 @@ iterator
 このスクリプトはpython 3.xを想定しています。  
 お使いの環境が2系(2.6+)の場合は、2行目あたりに  
 ```
-from __future__ import print_function  
+from __future__ import print_function
 ```
 を追加して下さい。
 
